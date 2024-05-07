@@ -12,7 +12,7 @@ def helpPage() -> str:
     console.show("   --wakeup: Use 'Wake Up' <class> to handle Many things :::")
     console.show("     methods for 'Wake Up' <class> ( '--isex', '--go-get', '--access', '--byfile', '--bydir', '--bymount', '--bylink' )")
     console.show("   ")
-    console.show("  --ghost: Ghost <function> is imported from <class> 'Creation' to give all <informations> about the input path :::")
+    console.show("   --ghost: Ghost <function> is imported from <class> 'Creation' to give all <informations> about the input path :::")
     console.show("     methods for 'Ghost' <function> ( None )")
     console.show("   ")
 
